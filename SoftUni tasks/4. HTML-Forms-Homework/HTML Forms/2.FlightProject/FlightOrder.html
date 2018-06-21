@@ -1,0 +1,121 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Flight Orders</title>
+    <link href="styles.css" rel="stylesheet" />
+</head>
+<body>
+
+    <form>
+        <fieldset>
+            <h1>FLIGHT ORDER</h1>
+
+            <!--Row 1-->
+            <div>
+                <span>From</span>
+                <select name="city" class="from-to">
+                    <option value="choose city"> enter a city </option>
+                    <option value="Veliko Tarnovo"> Veliko Tarnovo </option>
+                    <option value="Sofia"> Sofia</option>
+                    <option value="Varna">Varna</option>
+                    <option value="Pleven">Pleven</option>
+                </select>
+            </div>
+
+            <div>
+                <span>To</span>
+                <select name="cityTo" class="from-to">
+                    <option value="choose city"> enter a city </option>
+                    <option value="Veliko Tarnovo"> Veliko Tarnovo </option>
+                    <option value="Sofia"> Sofia</option>
+                    <option value="Varna">Varna</option>
+                    <option value="Pleven">Pleven</option>
+                </select>
+            </div>
+
+            <p><input type="checkbox" /> Prefer directs</p>
+
+
+            <!--Row 2-->
+            <div>
+                <span>Departure Date</span>
+                <input type="date" />
+            </div>
+
+            <div>
+                <span>Time Interval</span>
+                <input type="time" value="00:20" />
+                <input type="time" value="05:00" />
+            </div>
+
+            <!--Row 3-->
+            <div>
+                <span>Return Date</span>
+                <input type="date" />
+            </div>
+
+            <div>
+                <span>Time Interval</span>
+                <input type="time" value="16:00" />
+                <input type="time" value="22:00" />
+            </div>
+
+
+            <!--Row 4-->
+            <div>
+                <span>12+</span>
+                <select class="count">
+                    <option value="0">0</option>
+                    <option value="1">1</option>
+                    <option value="2">2</option>
+                    <option value="3">3</option>
+                    <option value="4">4</option>
+                </select>
+            </div>
+            <div>
+                <span>2-12</span>
+                <select class="count">
+                    <option value="0">0</option>
+                    <option value="2">2</option>
+                    <option value="3">3</option>
+                    <option value="4">4</option>
+                    <option value="5">5</option>
+                    <option value="6">6</option>
+                    <option value="7">7</option>
+                    <option value="8">8</option>
+                    <option value="9">9</option>
+                    <option value="10">10</option>
+                    <option value="11">11</option>
+                    <option value="12">12</option>
+                </select>
+            </div>
+
+            <div>
+                <span >0-2</span>
+                <select class="count">
+                    <option value="0">0</option>
+                    <option value="1">1</option>
+                    <option value="2">2</option>
+                </select>
+            </div>
+
+            <div>
+                <span>Choose class</span>
+                <select class="chooseClass">
+                    <option value="Economy">Economy</option>
+                    <option value="Normal">Normal</option>
+                    <option value="Business">Business</option>
+                    <option value="VIP">VIP</option>
+                </select>
+            </div><br />
+            <button type="submit">Search</button>
+
+        </fieldset>
+    </form>
+
+
+
+
+
+</body>
+</html>

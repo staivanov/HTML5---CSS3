@@ -1,0 +1,12 @@
+c:\users\stanislav\documents\visual studio 2013\Projects\8. CSS-Layout-Homework\2.Footer\bin\2.Footer.dll.config
+c:\users\stanislav\documents\visual studio 2013\Projects\8. CSS-Layout-Homework\2.Footer\bin\2.Footer.dll
+c:\users\stanislav\documents\visual studio 2013\Projects\8. CSS-Layout-Homework\2.Footer\bin\2.Footer.pdb
+c:\users\stanislav\documents\visual studio 2013\Projects\8. CSS-Layout-Homework\2.Footer\obj\Debug\2.Footer.csprojResolveAssemblyReference.cache
+c:\users\stanislav\documents\visual studio 2013\Projects\8. CSS-Layout-Homework\2.Footer\obj\Debug\2.Footer.dll
+c:\users\stanislav\documents\visual studio 2013\Projects\8. CSS-Layout-Homework\2.Footer\obj\Debug\2.Footer.pdb
+T:\HTML5 - CSS\SoftUni\8. CSS-Layout-Homework\8. CSS-Layout-Homework\2.Footer\bin\2.Footer.dll.config
+T:\HTML5 - CSS\SoftUni\8. CSS-Layout-Homework\8. CSS-Layout-Homework\2.Footer\bin\2.Footer.dll
+T:\HTML5 - CSS\SoftUni\8. CSS-Layout-Homework\8. CSS-Layout-Homework\2.Footer\bin\2.Footer.pdb
+T:\HTML5 - CSS\SoftUni\8. CSS-Layout-Homework\8. CSS-Layout-Homework\2.Footer\obj\Debug\2.Footer.csprojResolveAssemblyReference.cache
+T:\HTML5 - CSS\SoftUni\8. CSS-Layout-Homework\8. CSS-Layout-Homework\2.Footer\obj\Debug\2.Footer.dll
+T:\HTML5 - CSS\SoftUni\8. CSS-Layout-Homework\8. CSS-Layout-Homework\2.Footer\obj\Debug\2.Footer.pdb

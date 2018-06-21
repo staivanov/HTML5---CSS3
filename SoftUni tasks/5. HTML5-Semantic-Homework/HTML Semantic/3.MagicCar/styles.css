@@ -1,0 +1,46 @@
+﻿iframe {
+    padding: 0;
+    margin: 0;
+    width: 150px;
+    height: 100px;
+    float: right;
+}
+
+
+
+header {
+    color: #ffd800;
+    text-align: center;
+    font-family: Arial;
+    font-weight: bold;
+    font-size: 1.5em;
+}
+
+
+a {
+    color: white;
+    font-family: Arial;
+    font-style: italic;
+    text-decoration: none;
+    padding: 1px;
+    margin: 2px;
+    display: block;
+    font-size: 14px;
+    width: 130px;
+}
+
+    a:hover {
+        color: #ffd800;
+    }
+
+
+
+
+
+
+section {
+    width: 300px;
+    background-color: black;
+    border-radius: 8px;
+    padding: 25px;
+}

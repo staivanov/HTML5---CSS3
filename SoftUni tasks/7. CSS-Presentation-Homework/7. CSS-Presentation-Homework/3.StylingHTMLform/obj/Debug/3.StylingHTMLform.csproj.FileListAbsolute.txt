@@ -1,0 +1,5 @@
+T:\HTML5 - CSS\SoftUni\7. CSS-Presentation-Homework\7. CSS-Presentation-Homework\3.StylingHTMLform\bin\3.StylingHTMLform.dll.config
+T:\HTML5 - CSS\SoftUni\7. CSS-Presentation-Homework\7. CSS-Presentation-Homework\3.StylingHTMLform\bin\3.StylingHTMLform.dll
+T:\HTML5 - CSS\SoftUni\7. CSS-Presentation-Homework\7. CSS-Presentation-Homework\3.StylingHTMLform\bin\3.StylingHTMLform.pdb
+T:\HTML5 - CSS\SoftUni\7. CSS-Presentation-Homework\7. CSS-Presentation-Homework\3.StylingHTMLform\obj\Debug\3.StylingHTMLform.dll
+T:\HTML5 - CSS\SoftUni\7. CSS-Presentation-Homework\7. CSS-Presentation-Homework\3.StylingHTMLform\obj\Debug\3.StylingHTMLform.pdb

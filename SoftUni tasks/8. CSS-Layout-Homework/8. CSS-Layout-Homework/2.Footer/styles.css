@@ -1,0 +1,90 @@
+﻿
+body, div, ul, li, nav, header, footer, a, h5, button {
+    margin: 0;
+    padding: 0;
+}
+/*Main  start*/
+body {
+    background-color: #2a6496;
+    font-family: Tahoma;
+}
+
+footer {
+    margin-top: 30px;
+    background-color: #2a6496;
+}
+
+    footer > div {
+        width: 210px;
+        float: left;
+        margin-left: 20px;
+    }
+
+        footer > div::after {
+            clear: both;
+        }
+
+ul {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+h5 {
+    font-size: 14px;
+    text-transform: uppercase;
+    font-weight: bold;
+    color: #ff9c00;
+}
+
+ul li {
+    margin-top: 6px;
+    font-size: 13px;
+}
+
+    ul li a:hover {
+        color: #ff9c00;
+    }
+/*Main  end*/
+
+
+/*Col 1*/
+div.col {
+    width: 200px;
+}
+
+button {
+    width: 180px;
+    padding: 10px 20px;
+    border: 2px solid #ff9c00;
+    background-color: #2a6496;
+    color: white;
+    margin-bottom: 10px;
+}
+
+    button:hover {
+        background-color: #ff9c00;
+        cursor: pointer;
+    }
+/*Col 1 end*/
+
+/*Col 4*/
+div.col4-1 {
+    margin-bottom: 5px;
+}
+
+div.col4-3 ul li {
+    display: inline-block;
+    margin-top: 15px;
+}
+/*Col 4 end*/
+
+
+/*facebook box*/
+#fb-root {
+    width: 130px;
+}
+/*facebook box end*/

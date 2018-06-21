@@ -1,0 +1,61 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>HTML Form Style</title>
+    <link href="styles.css" rel="stylesheet" />
+</head>
+<body>
+    <div id="wrapper">
+
+        <header>Step 1: Your details</header>
+        <form>
+            <span>Name</span>
+            <input type="text" placeholder="First and last name" />
+        </form>
+        <form>
+            <span>Email</span>
+            <input type="email" placeholder="example@domain.com" />
+        </form>
+        <form>
+            <span>Phone</span>
+            <input type="tel" placeholder="eg. +447500000000" />
+        </form>
+
+        <header>Step 1: Delivery address</header>
+        <form>
+            <span>Address</span>
+            <textarea rows="5"></textarea><br />
+        </form>
+        <form>
+            <span>Post code</span>
+            <input type="text" /><br />
+        </form>
+        <form>
+            <span>Country</span>
+            <input type="text" />
+        </form>
+
+        <header>Step 1: Card details</header>
+        <form>
+            <span>Card type</span>
+            <input type="radio" name="card" /> <img src="img/visa.jpg" />
+            <input type="radio" name="card" /> <img src="img/amex.jpg" />
+            <input type="radio" name="card" /> <img src="img/mastercard.jpg" /><br /> 
+        </form>
+        <form>
+            <span>Card number</span>
+            <input type="text" />
+        </form>
+        <form>
+            <span>Security code</span>
+            <input type="text" />
+        </form>
+        <form>
+            <span>Name on card</span>
+            <input type="text" placeholder="exact name as on the card" />
+        </form>
+        <button type="submit">BUY IT!</button>
+    </div>
+
+</body>
+</html>

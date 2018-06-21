@@ -1,0 +1,6 @@
+T:\HTML5 - CSS\SoftUni\7. CSS-Presentation-Homework\7. CSS-Presentation-Homework\7. CSS-Presentation-Homework\bin\_7.CSS_Presentation_Homework.dll.config
+T:\HTML5 - CSS\SoftUni\7. CSS-Presentation-Homework\7. CSS-Presentation-Homework\7. CSS-Presentation-Homework\bin\_7.CSS_Presentation_Homework.dll
+T:\HTML5 - CSS\SoftUni\7. CSS-Presentation-Homework\7. CSS-Presentation-Homework\7. CSS-Presentation-Homework\bin\_7.CSS_Presentation_Homework.pdb
+T:\HTML5 - CSS\SoftUni\7. CSS-Presentation-Homework\7. CSS-Presentation-Homework\7. CSS-Presentation-Homework\obj\Debug\1. The Jaunty Text Field.csprojResolveAssemblyReference.cache
+T:\HTML5 - CSS\SoftUni\7. CSS-Presentation-Homework\7. CSS-Presentation-Homework\7. CSS-Presentation-Homework\obj\Debug\_7.CSS_Presentation_Homework.dll
+T:\HTML5 - CSS\SoftUni\7. CSS-Presentation-Homework\7. CSS-Presentation-Homework\7. CSS-Presentation-Homework\obj\Debug\_7.CSS_Presentation_Homework.pdb

@@ -1,0 +1,72 @@
+﻿body, div, article, section, nav, li, ul, span, button, a, p {
+    margin: 0;
+    padding: 0;
+}
+
+#wrapper {
+    min-width: 800px;
+}
+
+body section {
+    background-color: rgb(238, 238, 238);
+    border-radius: 1%;
+    width: 50%;
+    height: 700px;
+    margin: 0 auto;
+    
+}
+
+h1 {
+    padding: 3%;
+}
+
+body article {
+    background-color: white;
+    margin: 5% auto;
+    border: 2px solid rgb(175, 175, 175);
+    padding: 1.9%;
+    width: 80%;
+    position:relative;
+    overflow:hidden;
+}
+
+.str {
+    font-weight: bold;
+}
+
+img {
+    height: 5%;
+    width: 20%;
+    float: left;
+    border: 2px solid rgb(175, 175, 175);
+    margin-right: 2%;
+}
+
+
+
+
+p {
+    width: 87%;
+   
+}
+
+button {
+    margin-top: 5px;
+    margin-right: 5px;
+    display: inline-block;
+    border-radius: 0;
+    padding: 0.2% 4%;
+    -webkit-box-shadow: 2px 1px 2px black;
+    -moz-box-shadow: 2px 1px 2px black;
+    box-shadow: 2px 1px 2px black;
+    float:right;
+    color: white;
+    background: #8a0000;
+    background: -moz-linear-gradient(left, #8a0000 0%, #c90103 25%);
+    background: -webkit-gradient(linear, left top, right top, color-stop(0%,#8a0000), color-stop(25%,#c90103));
+    background: -webkit-linear-gradient(left, #8a0000 0%,#c90103 25%);
+    background: -o-linear-gradient(left, #8a0000 0%,#c90103 25%);
+    background: -ms-linear-gradient(left, #8a0000 0%,#c90103 25%);
+    background: linear-gradient(to right, #8a0000 0%,#c90103 25%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#8a0000', endColorstr='#c90103',GradientType=1 );
+}

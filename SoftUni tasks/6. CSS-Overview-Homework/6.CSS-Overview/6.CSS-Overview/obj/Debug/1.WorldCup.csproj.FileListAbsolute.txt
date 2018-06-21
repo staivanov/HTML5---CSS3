@@ -1,0 +1,6 @@
+T:\HTML5 - CSS\SoftUni\6. CSS-Overview-Homework\6.CSS-Overview\6.CSS-Overview\bin\6.CSS-Overview.dll.config
+T:\HTML5 - CSS\SoftUni\6. CSS-Overview-Homework\6.CSS-Overview\6.CSS-Overview\bin\6.CSS-Overview.dll
+T:\HTML5 - CSS\SoftUni\6. CSS-Overview-Homework\6.CSS-Overview\6.CSS-Overview\bin\6.CSS-Overview.pdb
+T:\HTML5 - CSS\SoftUni\6. CSS-Overview-Homework\6.CSS-Overview\6.CSS-Overview\obj\Debug\1.WorldCup.csprojResolveAssemblyReference.cache
+T:\HTML5 - CSS\SoftUni\6. CSS-Overview-Homework\6.CSS-Overview\6.CSS-Overview\obj\Debug\6.CSS-Overview.dll
+T:\HTML5 - CSS\SoftUni\6. CSS-Overview-Homework\6.CSS-Overview\6.CSS-Overview\obj\Debug\6.CSS-Overview.pdb

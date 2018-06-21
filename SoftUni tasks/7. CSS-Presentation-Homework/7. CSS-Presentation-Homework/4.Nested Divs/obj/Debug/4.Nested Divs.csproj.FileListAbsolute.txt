@@ -1,0 +1,6 @@
+T:\HTML5 - CSS\SoftUni\7. CSS-Presentation-Homework\7. CSS-Presentation-Homework\4.Nested Divs\bin\4.Nested Divs.dll.config
+T:\HTML5 - CSS\SoftUni\7. CSS-Presentation-Homework\7. CSS-Presentation-Homework\4.Nested Divs\bin\4.Nested Divs.dll
+T:\HTML5 - CSS\SoftUni\7. CSS-Presentation-Homework\7. CSS-Presentation-Homework\4.Nested Divs\bin\4.Nested Divs.pdb
+T:\HTML5 - CSS\SoftUni\7. CSS-Presentation-Homework\7. CSS-Presentation-Homework\4.Nested Divs\obj\Debug\4.Nested Divs.csprojResolveAssemblyReference.cache
+T:\HTML5 - CSS\SoftUni\7. CSS-Presentation-Homework\7. CSS-Presentation-Homework\4.Nested Divs\obj\Debug\4.Nested Divs.dll
+T:\HTML5 - CSS\SoftUni\7. CSS-Presentation-Homework\7. CSS-Presentation-Homework\4.Nested Divs\obj\Debug\4.Nested Divs.pdb

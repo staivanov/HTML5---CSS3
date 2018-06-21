@@ -1,0 +1,6 @@
+c:\users\stanislav\documents\visual studio 2013\Projects\WebApplication1\2.ParagraphsAndImgs\bin\2.ParagraphsAndImgs.dll.config
+c:\users\stanislav\documents\visual studio 2013\Projects\WebApplication1\2.ParagraphsAndImgs\bin\2.ParagraphsAndImgs.dll
+c:\users\stanislav\documents\visual studio 2013\Projects\WebApplication1\2.ParagraphsAndImgs\bin\2.ParagraphsAndImgs.pdb
+c:\users\stanislav\documents\visual studio 2013\Projects\WebApplication1\2.ParagraphsAndImgs\obj\Debug\2.ParagraphsAndImgs.csprojResolveAssemblyReference.cache
+c:\users\stanislav\documents\visual studio 2013\Projects\WebApplication1\2.ParagraphsAndImgs\obj\Debug\2.ParagraphsAndImgs.dll
+c:\users\stanislav\documents\visual studio 2013\Projects\WebApplication1\2.ParagraphsAndImgs\obj\Debug\2.ParagraphsAndImgs.pdb

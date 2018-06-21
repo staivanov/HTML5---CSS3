@@ -1,0 +1,78 @@
+﻿body, div, span, header {
+    margin: 0;
+    padding: 0;
+}
+
+
+
+#wrapper {
+    margin-top: 30px;
+    margin-left: 30px;
+    background-repeat: no-repeat;
+    width: 960px;
+    height: 800px;
+}
+
+
+div.sky {
+background: rgb(252,248,193); /* Old browsers */
+background: -moz-linear-gradient(-45deg,  rgba(252,248,193,1) 0%, rgba(155,192,232,1) 0%, rgba(246,252,215,1) 15%, rgba(155,192,232,1) 42%, rgba(42,27,231,1) 100%); /* FF3.6+ */
+background: -webkit-gradient(linear, left top, right bottom, color-stop(0%,rgba(252,248,193,1)), color-stop(0%,rgba(155,192,232,1)), color-stop(15%,rgba(246,252,215,1)), color-stop(42%,rgba(155,192,232,1)), color-stop(100%,rgba(42,27,231,1))); /* Chrome,Safari4+ */
+background: -webkit-linear-gradient(-45deg,  rgba(252,248,193,1) 0%,rgba(155,192,232,1) 0%,rgba(246,252,215,1) 15%,rgba(155,192,232,1) 42%,rgba(42,27,231,1) 100%); /* Chrome10+,Safari5.1+ */
+background: -o-linear-gradient(-45deg,  rgba(252,248,193,1) 0%,rgba(155,192,232,1) 0%,rgba(246,252,215,1) 15%,rgba(155,192,232,1) 42%,rgba(42,27,231,1) 100%); /* Opera 11.10+ */
+background: -ms-linear-gradient(-45deg,  rgba(252,248,193,1) 0%,rgba(155,192,232,1) 0%,rgba(246,252,215,1) 15%,rgba(155,192,232,1) 42%,rgba(42,27,231,1) 100%); /* IE10+ */
+background: linear-gradient(135deg,  rgba(252,248,193,1) 0%,rgba(155,192,232,1) 0%,rgba(246,252,215,1) 15%,rgba(155,192,232,1) 42%,rgba(42,27,231,1) 100%); /* W3C */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#fcf8c1', endColorstr='#2a1be7',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
+
+}
+
+div.beach {
+    background-image: url("imgs/HawaiiBackground.png");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+
+
+header {
+    width: 90%;
+    color: #ffd800;
+    font-family: Animated;
+    font-size: 2em;
+    text-align: right;
+}
+
+figure {
+    margin-top: 200px;
+}
+
+img {
+    height: 250px;
+    width: 170px;
+}
+
+    img.Petia {
+        margin-left: -75px;
+        margin-bottom: 25px;
+    }
+
+    img.Tedi {
+        height: 160px;
+        width: 100px;
+        margin-left: -110px;
+        margin-bottom: 15px;
+    }
+
+    img.Nakov {
+        margin-bottom: 30px;
+    }
+
+
+    img.Alex {
+        margin-left: -70px;
+        margin-bottom: 10px;
+    }
+
+    img.Vlado {
+        margin-left: -30px;
+    }

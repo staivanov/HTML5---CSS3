@@ -1,0 +1,74 @@
+﻿body, div, ul, li, p, a, nav, footer, header, h1, h4, img, time {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    background-color: #eee;
+}
+
+h1 {
+    padding-left: 30px;
+}
+
+article {
+    margin: 40px auto 0;
+    width: 1300px;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+h4 {
+    color: #2a6496;
+}
+
+
+img {
+    display: block;
+    margin: 0 auto;
+    padding: 10px 0 40px 0;
+}
+
+article > div {
+    vertical-align: middle;
+    display: inline-block;
+    width: 320px;
+    height: 340px;
+    padding: 30px;
+    border: 1px solid silver;
+    margin-left: 30px;
+    box-shadow: 1px 1px 5px silver;
+}
+
+p > a {
+    color: silver;
+}
+
+    p > a:hover {
+        color: #2a6496;
+    }
+
+
+/*Page select*/
+div.nav {
+    border: none;
+    box-shadow: none;
+    height: 40px;
+    padding: 0;
+    margin-top: 50px;
+}
+
+    div.nav a {
+        background-color: #4ca0db;
+        padding: 6px 12px;
+        color: white;
+        border: 1px solid white;
+        margin-left: -2px;
+    }
+
+        div.nav a:hover {
+            background-color: #ff9c00;
+        }

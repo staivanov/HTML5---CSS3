@@ -1,0 +1,12 @@
+c:\users\stanislav\documents\visual studio 2013\Projects\8. CSS-Layout-Homework\8. CSS-Layout-Homework\bin\_8.CSS_Layout_Homework.dll.config
+c:\users\stanislav\documents\visual studio 2013\Projects\8. CSS-Layout-Homework\8. CSS-Layout-Homework\bin\_8.CSS_Layout_Homework.dll
+c:\users\stanislav\documents\visual studio 2013\Projects\8. CSS-Layout-Homework\8. CSS-Layout-Homework\bin\_8.CSS_Layout_Homework.pdb
+c:\users\stanislav\documents\visual studio 2013\Projects\8. CSS-Layout-Homework\8. CSS-Layout-Homework\obj\Debug\1.WebsiteHeader.csprojResolveAssemblyReference.cache
+c:\users\stanislav\documents\visual studio 2013\Projects\8. CSS-Layout-Homework\8. CSS-Layout-Homework\obj\Debug\_8.CSS_Layout_Homework.dll
+c:\users\stanislav\documents\visual studio 2013\Projects\8. CSS-Layout-Homework\8. CSS-Layout-Homework\obj\Debug\_8.CSS_Layout_Homework.pdb
+T:\HTML5 - CSS\SoftUni\8. CSS-Layout-Homework\8. CSS-Layout-Homework\8. CSS-Layout-Homework\bin\_8.CSS_Layout_Homework.dll.config
+T:\HTML5 - CSS\SoftUni\8. CSS-Layout-Homework\8. CSS-Layout-Homework\8. CSS-Layout-Homework\bin\_8.CSS_Layout_Homework.dll
+T:\HTML5 - CSS\SoftUni\8. CSS-Layout-Homework\8. CSS-Layout-Homework\8. CSS-Layout-Homework\bin\_8.CSS_Layout_Homework.pdb
+T:\HTML5 - CSS\SoftUni\8. CSS-Layout-Homework\8. CSS-Layout-Homework\8. CSS-Layout-Homework\obj\Debug\1.WebsiteHeader.csprojResolveAssemblyReference.cache
+T:\HTML5 - CSS\SoftUni\8. CSS-Layout-Homework\8. CSS-Layout-Homework\8. CSS-Layout-Homework\obj\Debug\_8.CSS_Layout_Homework.dll
+T:\HTML5 - CSS\SoftUni\8. CSS-Layout-Homework\8. CSS-Layout-Homework\8. CSS-Layout-Homework\obj\Debug\_8.CSS_Layout_Homework.pdb

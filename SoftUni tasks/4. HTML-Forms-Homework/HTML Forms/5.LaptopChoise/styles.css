@@ -1,0 +1,62 @@
+﻿body, div, h1, h2, h3, h5, p, nav, section, article, ul, li {
+    padding: 0;
+    margin: 0;
+}
+
+#wrapper {
+    padding: 15px;
+    margin: 10px 0 0 20px;
+    width: 960px;
+}
+
+h2 {
+    text-indent: 20px;
+}
+
+img {
+    width: 80px;
+    height: 55px;
+}
+
+button {
+    padding: 5px 10px;
+    margin: 5px;
+    display: inline-block;
+    width: 145px;
+    border-radius: 5px;
+    background-color: white;
+    font-size: 11px;
+}
+
+    button p {
+        text-align: left;
+    }
+
+.laptops {
+    width: 475px;
+}
+
+button > div {
+    color: white;
+    float: right;
+    padding: 5px 8px;
+    background-color: rgb(44, 66, 90);
+    border-top-left-radius: 7px;
+}
+
+div.sliders {
+    width: 200px;
+    margin-top: -50px;
+    float: right;
+    margin-right: 280px;
+    background-color: rgb(247, 252, 255);
+    border-radius: 2px;
+    padding: 1px;
+}
+
+span {
+    display: block;
+    text-align: center;
+    margin-bottom: 10px;
+    height: 100%;
+}

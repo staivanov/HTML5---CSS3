@@ -1,0 +1,6 @@
+T:\HTML5 - CSS\SoftUni\8. CSS-Layout-Homework\8. CSS-Layout-Homework\3.News SoftUni\bin\3.News SoftUni.dll.config
+T:\HTML5 - CSS\SoftUni\8. CSS-Layout-Homework\8. CSS-Layout-Homework\3.News SoftUni\bin\3.News SoftUni.dll
+T:\HTML5 - CSS\SoftUni\8. CSS-Layout-Homework\8. CSS-Layout-Homework\3.News SoftUni\bin\3.News SoftUni.pdb
+T:\HTML5 - CSS\SoftUni\8. CSS-Layout-Homework\8. CSS-Layout-Homework\3.News SoftUni\obj\Debug\3.News SoftUni.csprojResolveAssemblyReference.cache
+T:\HTML5 - CSS\SoftUni\8. CSS-Layout-Homework\8. CSS-Layout-Homework\3.News SoftUni\obj\Debug\3.News SoftUni.dll
+T:\HTML5 - CSS\SoftUni\8. CSS-Layout-Homework\8. CSS-Layout-Homework\3.News SoftUni\obj\Debug\3.News SoftUni.pdb

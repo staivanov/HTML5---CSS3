@@ -1,0 +1,82 @@
+﻿<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title>Forms / Task 1</title>
+<link href="styles.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+    <div id="wrapper">
+        <table>
+            <tr>
+                <th>Last Name</th>
+                <td><input type="text" placeholder="Nakov" id="lName" /></td>
+            </tr>
+            <tr>
+                <th>First Name</th>
+                <td><input type="text" placeholder="Svetlin" id="fName"  /></td>
+            </tr>
+            <tr>
+                <th>Address</th>
+                <td><textarea>17 Hristo Botev Str. floor 3. apart. 12</textarea></td>
+            </tr>
+            <tr>
+                <th>City</th>
+                <td><input type="text" placeholder="Kaspichan" id="city" /> <span>State</span><input type="text" id="state" /> </td>
+            </tr>
+            <tr>
+                <th>Zip/Postal Code</th>
+                <td><input type="number" placeholder="9325" id="zip" /></td>
+            </tr>
+            <tr>
+                <th>Country</th>
+                <td>
+                    <select id="country">
+                        <option value="bulgaria" selected="selected">Bulgaria</option>
+                        <option value="usa">USA</option>
+                        <option value="poland">Poland</option>
+                        <option value="germany">Germany</option>
+                        <option value="canada">Canada</option>
+                    </select>
+                </td>
+            </tr>
+            <tr>
+                <th>Phone (country code, area code, number)</th>
+                <td>(+<input type="number" placeholder="359" id="number1" /> ) <input type="number" placeholder="88" id="number2" /> - <input type="number" placeholder="8334343" id="number3" /></td>
+            </tr>
+            <tr>
+                <th>E-mail</th>
+                <td><input type="email" placeholder="nakov@kaspichan.org" pattern="[a-z0-9._%+-]+@[a-z0-9.-]+\.[a-z]{2,4}$" autofocus="autofocus" id="email"> </td>
+            </tr>
+            <tr>
+                <th>Birth date</th>
+                <td>  Month <input type="number" placeholder="6" id="month" /> Day <input type="number" placeholder="14" id="day" /> Year (4 digit) <input type="number" placeholder="1980" id="year" /></td>
+            </tr>
+            <tr>
+                <th>Gender</th>
+                <td>
+                    <select>
+                        <option value="gender"  >Male </option>
+                        <option value="gender" selected="selected">Female</option>
+                       
+                    </select>
+                </td>
+            </tr>
+            <tr>
+                <th>Starting date</th>
+                <td>
+                    <input type="radio" name="dateStart" checked id="spring" />
+                    <label for="spring">Spring 2006</label>
+                    <input type="radio" name="dateStart" id="summer" />
+                    <label for="summer">Summer 2006</label>
+                </td>
+            </tr>
+            <tr>
+                <th>Comments/Questions</th>
+                <td><textarea> Please, send me more information about the loging.</textarea></td>
+            </tr>
+        </table>
+    </div>
+</body>
+</html>

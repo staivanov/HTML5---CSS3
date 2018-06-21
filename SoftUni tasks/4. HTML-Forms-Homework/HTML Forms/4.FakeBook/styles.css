@@ -1,0 +1,107 @@
+body, ul, li, nav, header, footer, span, p, h1, h3, h4, h5, h2, form, fieldset, textarea, button {
+    margin: 0;
+    padding: 0;
+}
+
+
+
+#wrapper {
+    margin: 20px 0 0 20px;
+    padding: 10px;
+    width: 960px;
+    background-color: rgba(59,89,151, 0.9);
+    color: white;
+    font-family: Arial;
+    position: relative;
+}
+
+form h1 {
+    text-align: center;
+    font-size: 5em;
+}
+
+    form h1 span {
+        margin-left: -15px;
+        font-size: 13px;
+    }
+
+form h4 {
+    text-align: center;
+    font-size: 1.7em;
+}
+
+form h5 {
+    text-align: center;
+    font-size: 0.9em;
+}
+
+fieldset.one {
+    width: 250px;
+    padding: 10px;
+    margin-top: 45px;
+    margin-left: 15px;
+    border-radius: 8px;
+}
+
+    fieldset.one input {
+        padding: 3px 0 3px 0;
+        border-radius: 4px;
+        display: inline-block;
+        width: 120px;
+        margin: 5px 0 5px 0;
+    }
+
+        fieldset.one input[type="datetime-local"] {
+            width: 180px;
+        }
+
+        fieldset.one input[type="radio"] {
+            padding: 0;
+            margin: 0;
+        }
+
+
+
+
+fieldset.two {
+    width: 490px;
+    position: absolute;
+    right: 15px;
+    top: 195px;
+    border-radius: 8px;
+    padding: 10px;
+}
+
+    fieldset.two select {
+        width: 142px;
+        border-radius: 4px;
+        margin: 8px;
+    }
+
+    fieldset.two input[type] {
+        border-radius: 4px;
+        margin: 8px;
+    }
+
+    fieldset.two textarea {
+        width: 100%;
+        border-radius: 4px;
+    }
+
+button.first {
+    padding: 5px 100px;
+    margin-top: 15px;
+    margin-left: 15px;
+    background-color: rgba(233, 233, 233, 0.70);
+    color: rgba(59,89,151, 0.9);
+    border-radius: 4px;
+}
+
+button.second {
+    margin-top: 14px;
+    padding: 5px 220px;
+    background-color: rgba(233, 233, 233, 0.70);
+    color: rgba(59,89,151, 0.9);
+    border-radius: 4px;
+    float: right;
+}

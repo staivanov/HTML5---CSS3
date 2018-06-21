@@ -1,0 +1,118 @@
+﻿body, div, p, article, section {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: #3B3B3B;
+    font-family: Verdana;
+    font-size: 13px;
+}
+
+#wrapper {
+    margin: 0 auto;
+    width: 50%;
+}
+
+form {
+    padding: 10px;
+    
+    
+}
+
+fieldset {
+    border: none;
+    vertical-align: baseline;
+
+}
+
+
+span {
+    color: white;
+    font-weight: bold;
+    font-size: 20px;
+    font-family: Georgia;
+    padding-right: 10px;
+    margin-top: 10px;
+    display: inline-block;
+}
+
+
+input[type="text"], input[type="email"] {
+    padding-left: 8px;
+}
+
+input[type="text"] {
+    margin-right: 20px;
+}
+
+
+button {
+    
+    margin-left: 14px;
+    border: 1px solid white;
+    border-radius: 8px;
+    padding: 4px 13px;
+
+    
+    color: white;
+    background: #e68484; /* Old browsers */
+    background: -moz-linear-gradient(top, #e68484 1%, #d32222 32%, #d00101 38%, #e80808 60%, #fe0e0e 99%); /* FF3.6+ */
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(1%,#e68484), color-stop(32%,#d32222), color-stop(38%,#d00101), color-stop(60%,#e80808), color-stop(99%,#fe0e0e)); /* Chrome,Safari4+ */
+    background: -webkit-linear-gradient(top, #e68484 1%,#d32222 32%,#d00101 38%,#e80808 60%,#fe0e0e 99%); /* Chrome10+,Safari5.1+ */
+    background: -o-linear-gradient(top, #e68484 1%,#d32222 32%,#d00101 38%,#e80808 60%,#fe0e0e 99%); /* Opera 11.10+ */
+    background: -ms-linear-gradient(top, #e68484 1%,#d32222 32%,#d00101 38%,#e80808 60%,#fe0e0e 99%); /* IE10+ */
+    background: linear-gradient(to bottom, #e68484 1%,#d32222 32%,#d00101 38%,#e80808 60%,#fe0e0e 99%); /* W3C */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#e68484', endColorstr='#fe0e0e',GradientType=0 ); /* IE6-9 */
+}
+
+
+
+a {
+    color: white;
+    text-decoration: none;
+}
+
+h2 {
+    font-size: 2em;
+    font-weight: 500;
+    font-family: Georgia;
+    color: #FBD61A;
+}
+
+p {
+    
+    color: #A4A4A4;
+    width: 95%;
+}
+
+
+img {
+    float: left;
+	
+}
+
+.clearfix:after {
+    content: " "; /* Older browser do not support empty content */
+    visibility: hidden;
+    display: block;
+    height: 0;
+    clear: both;
+}
+
+header {
+    background: url("from_shadow.jpg")  no-repeat scroll 0 90% rgba(0, 0, 0, 0);
+
+}
+
+
+article {
+    margin-left: 15px;
+}
+
+div.lastShadow {
+    margin-top: 20px;
+    background: url(body_shadow.gif) no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+   
+    color:  #3B3B3B;
+}

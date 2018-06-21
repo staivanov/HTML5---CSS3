@@ -1,0 +1,162 @@
+﻿body, div, ul, li, nav, footer, header, h1, h5, a, img {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: #234465;
+}
+
+nav {
+    margin: 0 0 0 40px;
+    background-color: #234465;
+}
+
+
+ul {
+    list-style: none;
+}
+
+    ul ul {
+        display: none;
+    }
+
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+header > ul li {
+    margin-top: 5px;
+    display: inline-block;
+    margin-left: 10px;
+    font-weight: bold;
+    position: relative;
+    padding: 10px 5px;
+}
+
+    header > ul li a {
+        text-shadow: 1px 1px 1px black;
+    }
+
+    header > ul li:hover {
+	
+        background-color: dodgerblue;
+        border-radius: 5px;
+    }
+
+ul li:hover ul {
+    position: absolute;
+    display: block;
+    border: 1px solid #808080;
+    margin-top: 10px;
+}
+
+
+ul li ul li {
+    font-weight: bold;
+    margin: 0;
+    width: 370px;
+    padding: 7px;
+    border-bottom: 1px solid ActiveBorder;
+}
+
+    ul li ul li:last-child {
+        border-bottom: none;
+    }
+
+    ul li ul li:hover {
+        background-color: darkorange;
+        border-radius: 0;
+    }
+
+    ul li ul li a {
+        text-shadow: none;
+        padding: 7px;
+    }
+
+a.courses {
+    color: dodgerblue;
+}
+
+    a.courses:hover {
+        color: white;
+    }
+
+header {
+    margin-left: 360px;
+}
+
+
+/*Notification bar*/
+div.notification {
+    width: 200px;
+}
+
+div.search {
+    width: 200px;
+    margin-left: -50px;
+}
+
+body > div {
+    display: inline-block;
+}
+
+
+
+div.notification ul li {
+    display: inline-block;
+    border: none;
+    position: relative;
+    padding: 7px;
+}
+
+div.notification ul ul {
+    display: none;
+}
+
+div.notification ul li:hover ul {
+    display: block;
+    margin-top: -1px;
+    z-index: 1000;
+    background-color: #234465;
+}
+
+
+
+span.notficationIMG {
+    background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABEAAAAUCAMAAABcfiZ7AAABOFBMVEX////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////iDWJFAAAAZ3RSTlMAIMHgVOznix5Q84lS3stOztjym0+8W93oHdEfq43v7rbFdBufATZ69cP8p5F1Z22HFpALNJ5YpKL53/j+nchclpmmBtmGgAgKPDdWDYjjGhB/IYVCYJK3A1NRl71EeIIp6bCKLz5DO4dGcgAAANpJREFUeF5NzFWOw0AQRdHn2O0YIYzjMA8zMzMzU/a/g9jVas2cnys9qQpkOmFn5XoTAkaNzshaNdIeE4PSbU0B2K8up0Em7ElwJ6dn1Fl2Ca6m3lCHUvfgGuUn6kwRwlyPMiybZjT0NZ5J8CsjIsTXadlIFSROK8/TYi4sypy9dEvLyqplKSFLr2wisLW9A2E3swdA9w8gHPpHwLHjFCQtF/zNaZJW8c5x0TdUpqqMsWzQeP8K10lXce9iD/pj/llX3OQLyGsMQP4Nf94/PtPF0jf++XFK3i/IALZaGJzTkxx2AAAAAElFTkSuQmCC') /*img/notificationsIcon.png*/;
+}
+
+span.notificationCounter {
+    color: orange;
+}
+
+nav div ul li a {
+    font-weight: bold;
+}
+
+
+
+input[type="text"] {
+    padding: 8px 10px 10px 10px;
+}
+
+button {
+    margin-left: -5px;
+    border-left: 1px solid #313131;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+    background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABEAAAARCAYAAAA7bUf6AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAyJpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMy1jMDExIDY2LjE0NTY2MSwgMjAxMi8wMi8wNi0xNDo1NjoyNyAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvIiB4bWxuczp4bXBNTT0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL21tLyIgeG1sbnM6c3RSZWY9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9zVHlwZS9SZXNvdXJjZVJlZiMiIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIENTNiAoV2luZG93cykiIHhtcE1NOkluc3RhbmNlSUQ9InhtcC5paWQ6MDhGRUJCM0FFMEVCMTFFMzlEQThERTZERENCNUNFOTAiIHhtcE1NOkRvY3VtZW50SUQ9InhtcC5kaWQ6MDhGRUJCM0JFMEVCMTFFMzlEQThERTZERENCNUNFOTAiPiA8eG1wTU06RGVyaXZlZEZyb20gc3RSZWY6aW5zdGFuY2VJRD0ieG1wLmlpZDowOEZFQkIzOEUwRUIxMUUzOURBOERFNkREQ0I1Q0U5MCIgc3RSZWY6ZG9jdW1lbnRJRD0ieG1wLmRpZDowOEZFQkIzOUUwRUIxMUUzOURBOERFNkREQ0I1Q0U5MCIvPiA8L3JkZjpEZXNjcmlwdGlvbj4gPC9yZGY6UkRGPiA8L3g6eG1wbWV0YT4gPD94cGFja2V0IGVuZD0iciI/PnG1NcUAAAFHSURBVHjalJM/SwNBEMU34UAUQ7CxFjtBg/YRI34B/2AKKwtTKIifQkiRUhKjERXEQiRgITaaj2CRJpUGQawSgpWCCnkDDxknu8E8+N29mz0ee3OzsYnFTaeUBVKYBSPgDdyDEmi4gCLlr8C6WU+CKbALtsBJv5AqWFH1W9AGc2CGtQpogRtfyLIKeAGr4FG9sw2K9BdgHHzokDjYo/8BSybAsR95+lGwZnciIdP0d+Ap0LsC+KKf94UM0TddWB3wqZrdE9KhX+gTIrtN0D/7Qmr0KTbRpwPev5X/E7Kvnot8ngRjIAMeTB8yNiTGiZXLqVl7930/lePc/O5EdMZpfTXTGtIxg3rG/pqTKoOXBsMcvirP0rkJOpIvkXtkFmQSL4lWnaGHpl6WIY27/6sc+HuVQUIcd7Jjao3IDa4Sj0Cex2SjK8AARm49zFqqVV8AAAAASUVORK5CYII=') /*img/search.png*/;
+    background-repeat: no-repeat;
+    background-position: 50% 50%;
+    border: none;
+    height: 36px;
+    width: 32px;
+    vertical-align: middle;
+}
+
+    button:hover {
+        background-color: dodgerblue;
+    }

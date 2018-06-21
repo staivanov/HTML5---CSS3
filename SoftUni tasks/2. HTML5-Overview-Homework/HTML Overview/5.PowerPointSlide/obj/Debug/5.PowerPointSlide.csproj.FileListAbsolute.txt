@@ -1,0 +1,6 @@
+c:\users\stanislav\documents\visual studio 2013\Projects\WebApplication1\5.PowerPointSlide\bin\5.PowerPointSlide.dll.config
+c:\users\stanislav\documents\visual studio 2013\Projects\WebApplication1\5.PowerPointSlide\bin\5.PowerPointSlide.dll
+c:\users\stanislav\documents\visual studio 2013\Projects\WebApplication1\5.PowerPointSlide\bin\5.PowerPointSlide.pdb
+c:\users\stanislav\documents\visual studio 2013\Projects\WebApplication1\5.PowerPointSlide\obj\Debug\5.PowerPointSlide.csprojResolveAssemblyReference.cache
+c:\users\stanislav\documents\visual studio 2013\Projects\WebApplication1\5.PowerPointSlide\obj\Debug\5.PowerPointSlide.dll
+c:\users\stanislav\documents\visual studio 2013\Projects\WebApplication1\5.PowerPointSlide\obj\Debug\5.PowerPointSlide.pdb

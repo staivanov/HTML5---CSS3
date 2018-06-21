@@ -1,0 +1,59 @@
+﻿table {
+    border: 1px solid black;
+}
+
+thead th {
+    border: 1px solid black;
+    padding: 18px 45px;
+    font-size: 3em;
+    font-family: Arial;
+}
+
+tbody td {
+    border: 1px solid black;
+}
+
+tfoot th {
+    border: 1px solid black;
+}
+
+.fRow {
+    width: 100px;
+    padding: 38px 15px;
+}
+
+.sRow {
+    width: 100px;
+    height: 100px;
+}
+
+td.tRow {
+    width: 100px;
+    height: 100px;
+}
+
+tfoot {
+    width: 100px;
+    height: 100px;
+}
+
+    tfoot th:first-child {
+        font-size: 2em;
+        text-align: right;
+    }
+
+    tfoot th:last-child {
+        text-align: left;
+    }
+
+.left {
+    text-align: left;
+}
+
+.right {
+    text-align: right;
+}
+
+.center {
+    text-align: center;
+}

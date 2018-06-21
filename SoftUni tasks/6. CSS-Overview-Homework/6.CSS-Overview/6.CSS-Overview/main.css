@@ -1,0 +1,121 @@
+﻿
+div#wrapper {
+    width: 960px;
+    padding: 20px;
+    background-color: darkgreen;
+    margin: 20px 0 0 20px;
+}
+
+    div#wrapper table {
+        border-radius: 15px;
+        border: 2px solid black;
+        border-collapse: collapse;
+    }
+
+td {
+    border: 2px solid black;
+}
+
+select {
+    width: 30px;
+}
+
+.red {
+    color: red;
+}
+
+.green {
+    color: green;
+}
+
+img {
+    height: 14px;
+    width: 17px;
+    padding: 2px;
+    vertical-align: middle;
+}
+
+/*Table head*/
+
+thead {
+    background-color: #ffd800;
+    font-weight: bold;
+    font-size: 1.1em;
+    font-family: Arial;
+}
+
+    thead td {
+        padding: 5px;
+    }
+
+        thead td:first-child {
+            padding: 5px 5px 5px 40px;
+        }
+
+        thead td:nth-child(3) {
+            padding: 5px 40px 5px 5px;
+        }
+
+    thead tr:last-child {
+        text-align: center;
+    }
+
+
+/*Table body*/
+
+tbody {
+    font-family: Arial;
+    font-size: 12px;
+}
+
+    /*Body cols*/
+
+    tbody tr td:nth-child(2), tbody tr td:nth-child(4), tbody tr td:nth-child(6) {
+        text-align: center;
+        padding: 0 5px;
+    }
+
+    tbody tr td:nth-child(1), tbody tr td:nth-child(5) {
+        text-align: right;
+        padding: 5px;
+    }
+
+    tbody tr td:nth-child(3), tbody tr td:nth-child(7) {
+        padding: 5px;
+        text-align: left;
+    }
+
+
+    tbody tr td.right {
+        padding: 10px 25px 5px 5px;
+    }
+
+    tbody tr td.left {
+        padding: 10px 5px 5px 25px;
+    }
+
+    /*Body rows*/
+    tbody tr:nth-child(odd) {
+        background-color: white;
+    }
+
+    tbody tr:nth-child(even) {
+        background-color: rgb(200, 200, 200);
+    }
+
+    tbody tr td:last-of-type {
+        text-align: center;
+        padding: 5px;
+    }
+
+/*Button*/
+
+button {
+    background: url("flag/bet1.png") right center no-repeat;
+    padding: 6px;
+    border-radius: 30px;
+}
+
+.beted {
+    background: url("flag/bet1.png") left center no-repeat;
+}

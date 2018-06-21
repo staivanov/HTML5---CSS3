@@ -1,0 +1,6 @@
+T:\HTML5 - CSS\SoftUni\6. CSS-Overview-Homework\6.CSS-Overview\3.SoftUniBeforeExame\bin\3.SoftUniBeforeExame.dll.config
+T:\HTML5 - CSS\SoftUni\6. CSS-Overview-Homework\6.CSS-Overview\3.SoftUniBeforeExame\bin\3.SoftUniBeforeExame.dll
+T:\HTML5 - CSS\SoftUni\6. CSS-Overview-Homework\6.CSS-Overview\3.SoftUniBeforeExame\bin\3.SoftUniBeforeExame.pdb
+T:\HTML5 - CSS\SoftUni\6. CSS-Overview-Homework\6.CSS-Overview\3.SoftUniBeforeExame\obj\Debug\3.SoftUniBeforeExame.csprojResolveAssemblyReference.cache
+T:\HTML5 - CSS\SoftUni\6. CSS-Overview-Homework\6.CSS-Overview\3.SoftUniBeforeExame\obj\Debug\3.SoftUniBeforeExame.dll
+T:\HTML5 - CSS\SoftUni\6. CSS-Overview-Homework\6.CSS-Overview\3.SoftUniBeforeExame\obj\Debug\3.SoftUniBeforeExame.pdb

@@ -1,0 +1,91 @@
+﻿body, div, article, ul, li, a {
+    padding: 0;
+    margin: 0;
+    font-family: Arial;
+    font-size: 11px;
+    font-weight: bold;
+}
+
+#newsFeed {
+    background: none repeat scroll 0 0 #1E3741;
+    margin: 0 auto;
+    border-radius: 9px;
+    padding: 15px 15px 15px 10px;
+    width: 950px;
+    height: 320px;
+}
+
+    #newsFeed > ul {
+        position: relative;
+        
+    }
+
+a {
+   
+    padding: 7px 17px;
+    color: #93ACB6;
+    text-decoration: none;
+    padding: 8px 12px;
+    display: block;
+}
+
+    a:hover {
+        text-decoration: underline;
+    }
+
+ul.main li {
+    margin-left: -2px;
+    display: inline-block;
+    background: none repeat scroll 0 0 #4B5F67;
+}
+
+    ul.main li.selected {
+        background-color: inherit;
+    }
+
+        ul.main li.selected > a {
+            color: white;
+            background-color: none;
+        }
+
+
+
+/*Nested news*/
+
+ul ul {
+    margin-top: 10px;
+    width: 233px;
+    position: absolute;
+}
+
+ul.main li ul li {
+    margin-left: -8px;
+    display: block;
+    position: relative;
+    background-color: #1E3741;
+    border-bottom: 1px solid #93ACB6;
+}
+
+
+    ul.main li ul li a {
+        font-size: 12px;
+        padding: 10px 17px;
+    }
+
+li > ul li a:hover {
+    background-color: rgb(0, 150, 140);
+    text-decoration: none;
+}
+
+ul.main li ul li:hover a {
+    color: white;
+}
+
+
+img {
+    position:absolute;
+    top: -220px;
+    left: 241px;
+    width: 330px;
+    height: 270px;
+}

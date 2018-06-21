@@ -1,0 +1,5 @@
+c:\users\stanislav\documents\visual studio 2013\Projects\WebApplication1\4.ListItems\bin\4.ListItems.dll.config
+c:\users\stanislav\documents\visual studio 2013\Projects\WebApplication1\4.ListItems\bin\4.ListItems.dll
+c:\users\stanislav\documents\visual studio 2013\Projects\WebApplication1\4.ListItems\bin\4.ListItems.pdb
+c:\users\stanislav\documents\visual studio 2013\Projects\WebApplication1\4.ListItems\obj\Debug\4.ListItems.dll
+c:\users\stanislav\documents\visual studio 2013\Projects\WebApplication1\4.ListItems\obj\Debug\4.ListItems.pdb

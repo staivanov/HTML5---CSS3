@@ -1,0 +1,84 @@
+﻿table {
+    border-collapse: collapse;
+    border: 1px solid black;
+    width: 600px;
+}
+
+td, th {
+    border: 1px solid black;
+}
+td {
+    width: 550px;
+    padding: 5px;
+    font-size: 1.2em;
+}
+th {
+    text-align: right;
+    width: 200px;
+}
+
+span {
+    font-weight: bold;
+}
+
+input[type="email"]
+{
+    margin-left: 1%;
+}
+
+textarea {
+    width: 90%;
+}
+
+#month {
+    width: 7%;
+    
+}
+
+#day {
+    width: 7%;
+}
+
+#year {
+    width: 25%;
+}
+
+#state {
+   width: 15%;
+}
+
+#city {
+    width: 70%;
+}
+
+#country {
+    width: 57%;
+}
+
+ #number1 {
+    width:15%;
+}
+
+ #number2 {
+     width: 15%;
+ }
+
+ #number3 {
+     width: 40%;
+ }
+
+ #lName {
+     width: 93%;
+ }
+
+ #fName {
+     width: 93%;
+ }
+
+ #zip {
+     width: 22%;
+ }
+
+ #email {
+     width: 93%;
+ }

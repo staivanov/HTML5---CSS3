@@ -1,0 +1,6 @@
+T:\HTML5 - CSS\SoftUni\8. CSS-Layout-Homework\8. CSS-Layout-Homework\4.Pretty Website\bin\4.Pretty Website.dll.config
+T:\HTML5 - CSS\SoftUni\8. CSS-Layout-Homework\8. CSS-Layout-Homework\4.Pretty Website\bin\4.Pretty Website.dll
+T:\HTML5 - CSS\SoftUni\8. CSS-Layout-Homework\8. CSS-Layout-Homework\4.Pretty Website\bin\4.Pretty Website.pdb
+T:\HTML5 - CSS\SoftUni\8. CSS-Layout-Homework\8. CSS-Layout-Homework\4.Pretty Website\obj\Debug\4.Pretty Website.csprojResolveAssemblyReference.cache
+T:\HTML5 - CSS\SoftUni\8. CSS-Layout-Homework\8. CSS-Layout-Homework\4.Pretty Website\obj\Debug\4.Pretty Website.dll
+T:\HTML5 - CSS\SoftUni\8. CSS-Layout-Homework\8. CSS-Layout-Homework\4.Pretty Website\obj\Debug\4.Pretty Website.pdb

@@ -1,0 +1,118 @@
+﻿form {
+    background-color: rgb(238, 238, 238);
+    width: 650px;
+    position: relative;
+}
+
+.form1 a {
+    text-decoration: none;
+}
+
+header {
+    padding: 5px;
+}
+
+h5 {
+    padding: 0;
+    margin: 0;
+}
+
+
+/*Form 1*/
+
+fieldset.form1 {
+    border: none;
+    width: 280px;
+}
+
+h1 {
+    color: rgb(35, 68, 101);
+}
+
+h1 + p {
+    font-size: 14px;
+}
+
+.form1 input[type] {
+    width: 88%;
+    padding: 3px 20px 5px 10px;
+    margin-top: 10px;
+}
+
+
+
+.form1 button {
+    margin-top: 10px;
+    padding: 1px 18px;
+    border: 2px solid rgb(35, 68, 101);
+    margin-left: 180px;
+    font-size: 14px;
+}
+
+    .form1 button:hover {
+        background-color: rgb(35, 68, 101);
+        color: white;
+        cursor: pointer;
+    }
+
+
+
+
+/*FORM 2*/
+
+.form2 h5 {
+    color: white;
+}
+
+.form2 p {
+    color: white;
+    font-size: 12px;
+    margin-top: -5px;
+}
+
+fieldset.form2 {
+    border: none;
+    width: 310px;
+    height: 55%;
+    background-color: rgb(35, 68, 101);
+    position: absolute;
+    left: 301px;
+    top: 124px;
+}
+
+input[type] {
+    margin-top: 15px;
+    width: 88%;
+    padding: 3px 20px 5px 10px;
+}
+
+input[type=checkbox] {
+    width: 15px;
+}
+
+.form2 button {
+    color: white;
+    background-color: rgb(35, 68, 101);
+    padding: 2px 28px;
+    border: 2px solid rgb(227, 145, 13);
+
+}
+
+    .form2 button:hover {
+        background-color: rgb(227, 145, 13);
+        cursor: pointer;
+    }
+
+
+div {
+    float: right;
+    margin-top: -25px;
+}
+
+    div a {
+        margin-top: 5px;
+        display: block;
+        text-align: center;
+        color: white;
+        font-size: 12px;
+    }

@@ -1,0 +1,5 @@
+T:\HTML5 - CSS\SoftUni\5. HTML5-Semantic-Homework\HTML Semantic\HTML Semantic\bin\HTML Semantic.dll.config
+T:\HTML5 - CSS\SoftUni\5. HTML5-Semantic-Homework\HTML Semantic\HTML Semantic\bin\HTML Semantic.dll
+T:\HTML5 - CSS\SoftUni\5. HTML5-Semantic-Homework\HTML Semantic\HTML Semantic\bin\HTML Semantic.pdb
+T:\HTML5 - CSS\SoftUni\5. HTML5-Semantic-Homework\HTML Semantic\HTML Semantic\obj\Debug\HTML Semantic.dll
+T:\HTML5 - CSS\SoftUni\5. HTML5-Semantic-Homework\HTML Semantic\HTML Semantic\obj\Debug\HTML Semantic.pdb

@@ -1,0 +1,6 @@
+T:\HTML5 - CSS\SoftUni\5. HTML5-Semantic-Homework\HTML Semantic\4.BGJUG WebPage\bin\4.BGJUG WebPage.dll.config
+T:\HTML5 - CSS\SoftUni\5. HTML5-Semantic-Homework\HTML Semantic\4.BGJUG WebPage\bin\4.BGJUG WebPage.dll
+T:\HTML5 - CSS\SoftUni\5. HTML5-Semantic-Homework\HTML Semantic\4.BGJUG WebPage\bin\4.BGJUG WebPage.pdb
+T:\HTML5 - CSS\SoftUni\5. HTML5-Semantic-Homework\HTML Semantic\4.BGJUG WebPage\obj\Debug\4.BGJUG WebPage.csprojResolveAssemblyReference.cache
+T:\HTML5 - CSS\SoftUni\5. HTML5-Semantic-Homework\HTML Semantic\4.BGJUG WebPage\obj\Debug\4.BGJUG WebPage.dll
+T:\HTML5 - CSS\SoftUni\5. HTML5-Semantic-Homework\HTML Semantic\4.BGJUG WebPage\obj\Debug\4.BGJUG WebPage.pdb

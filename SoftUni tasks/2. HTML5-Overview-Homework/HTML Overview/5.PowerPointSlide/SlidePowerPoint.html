@@ -1,0 +1,87 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+
+    <style>
+        body {
+            background-color: black;
+            color: white;
+        }
+
+        h2 {
+            color: rgb(243, 190, 96);
+        }
+
+        ul {
+            list-style: square;
+           
+        }
+
+        ul li::before {
+            color:red;
+            content: diamond;
+        }
+       
+        ol {
+            padding: 0px;
+            margin-left: 15px;
+            width: 540px;
+            list-style: none;
+            border: 1px solid rgb(243, 190, 96);
+        }
+        div {
+            width: 540px;
+            margin-left: 15px;
+            border: 1px solid rgb(243, 190, 96);
+            color: rgb(251, 238, 201);
+        }
+
+        ol > li {
+            color: rgb(251, 238, 201);
+        }
+
+        span {
+            color: rgb(243, 205, 96);
+        }
+        
+    </style>
+
+
+</head>
+<body>
+    <h2>Headings and Paragraphs</h2>
+
+    <ul>
+        <li>
+            Heading Tags: <span>&lt;h1&gt;</span> - <span>&lt;h6&gt;</span>
+            <ol>
+                <li>&lt;h1&gt;Heading 1&lt;/h1&gt;</li>
+                <li>&lt;h2&gt;Sub Heading 2&lt;/h2&gt;</li>
+                <li>&lt;h3&gt;Sub heading 3&lt;/h3&gt;</li>
+            </ol>
+        </li>
+        <li>
+            Paragraph Tags: <span>&lt;p&gt;</span>
+            <ol>
+                <li>&lt;p&gt;This is my first paragraph&lt;/p&gt;</li>
+                <li>&lt;p&gt;This is my second paragraph&lt;/p&gt;</li>
+            </ol>
+        </li>
+        <li>
+            Sections: <span>&lt;div&gt;</span> and <span>&lt;span&gt;</span>
+            <div>
+                &lt;div style="background: skyblue;"> <br />
+                 This is a div<br />
+                &lt;/div&gt;
+            </div>
+
+        </li>
+
+    </ul>
+
+
+
+
+</body>
+</html>

@@ -1,0 +1,6 @@
+T:\HTML5 - CSS\SoftUni\5. HTML5-Semantic-Homework\HTML Semantic\3.MagicCar\bin\3.MagicCar.dll.config
+T:\HTML5 - CSS\SoftUni\5. HTML5-Semantic-Homework\HTML Semantic\3.MagicCar\bin\3.MagicCar.dll
+T:\HTML5 - CSS\SoftUni\5. HTML5-Semantic-Homework\HTML Semantic\3.MagicCar\bin\3.MagicCar.pdb
+T:\HTML5 - CSS\SoftUni\5. HTML5-Semantic-Homework\HTML Semantic\3.MagicCar\obj\Debug\3.MagicCar.csprojResolveAssemblyReference.cache
+T:\HTML5 - CSS\SoftUni\5. HTML5-Semantic-Homework\HTML Semantic\3.MagicCar\obj\Debug\3.MagicCar.dll
+T:\HTML5 - CSS\SoftUni\5. HTML5-Semantic-Homework\HTML Semantic\3.MagicCar\obj\Debug\3.MagicCar.pdb

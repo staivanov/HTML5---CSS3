@@ -1,0 +1,27 @@
+﻿body, div, nav, ul, li, h1, h2, span,img, a {
+    padding: 0;
+    margin: 0;
+}
+
+
+
+
+.logo {
+    width: 300px;
+    height: 100px;
+   
+}
+
+.icon {
+    
+    width: 30px;
+    height: 30px;
+    vertical-align: sub;
+    
+}
+
+
+p {
+    margin-top: -5px;
+    margin-left: 15px;
+}

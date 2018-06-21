@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30723.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1.WebsiteHeader", "8. CSS-Layout-Homework\1.WebsiteHeader.csproj", "{FD800B51-DCD1-4EEF-82FB-4104D65EA585}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.Footer", "2.Footer\2.Footer.csproj", "{037529B8-A840-4AC8-A3E7-A0401A59D68E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3.News SoftUni", "3.News SoftUni\3.News SoftUni.csproj", "{C884AC12-4AF0-4895-B529-44A478B885FA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4.Pretty Website", "4.Pretty Website\4.Pretty Website.csproj", "{8E2B2851-87DE-4A1D-A88F-4D47F1EEAFEB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FD800B51-DCD1-4EEF-82FB-4104D65EA585}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD800B51-DCD1-4EEF-82FB-4104D65EA585}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD800B51-DCD1-4EEF-82FB-4104D65EA585}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD800B51-DCD1-4EEF-82FB-4104D65EA585}.Release|Any CPU.Build.0 = Release|Any CPU
+		{037529B8-A840-4AC8-A3E7-A0401A59D68E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{037529B8-A840-4AC8-A3E7-A0401A59D68E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{037529B8-A840-4AC8-A3E7-A0401A59D68E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{037529B8-A840-4AC8-A3E7-A0401A59D68E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C884AC12-4AF0-4895-B529-44A478B885FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C884AC12-4AF0-4895-B529-44A478B885FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C884AC12-4AF0-4895-B529-44A478B885FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C884AC12-4AF0-4895-B529-44A478B885FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E2B2851-87DE-4A1D-A88F-4D47F1EEAFEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E2B2851-87DE-4A1D-A88F-4D47F1EEAFEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E2B2851-87DE-4A1D-A88F-4D47F1EEAFEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E2B2851-87DE-4A1D-A88F-4D47F1EEAFEB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

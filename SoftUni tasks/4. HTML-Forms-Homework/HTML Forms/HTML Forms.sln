@@ -1,0 +1,51 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30723.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1.SimpleForm", "HTML Forms\1.SimpleForm.csproj", "{581A262C-EA03-4DB6-BE8B-EDA210E45711}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.FlightProject", "2.FlightProject\2.FlightProject.csproj", "{938F3C08-AC68-4D88-B12C-E441D3C24001}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3.WordPressTheme", "3.WordPressTheme\3.WordPressTheme.csproj", "{A06489A4-F2B0-44C7-92BA-88F25AD764B0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4.FakeBook", "4.FakeBook\4.FakeBook.csproj", "{A2FD5C4C-6D6F-48E1-B0B4-A5F2FC206C02}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5.LaptopChoise", "5.LaptopChoise\5.LaptopChoise.csproj", "{32FE1905-C5A8-4500-A50B-8D59A5F63FC9}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{48FC0870-EE5A-4EDC-B9B1-9378916F0CE6}"
+	ProjectSection(SolutionItems) = preProject
+		WebEssentials-Settings.json = WebEssentials-Settings.json
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{581A262C-EA03-4DB6-BE8B-EDA210E45711}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{581A262C-EA03-4DB6-BE8B-EDA210E45711}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{581A262C-EA03-4DB6-BE8B-EDA210E45711}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{581A262C-EA03-4DB6-BE8B-EDA210E45711}.Release|Any CPU.Build.0 = Release|Any CPU
+		{938F3C08-AC68-4D88-B12C-E441D3C24001}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{938F3C08-AC68-4D88-B12C-E441D3C24001}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{938F3C08-AC68-4D88-B12C-E441D3C24001}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{938F3C08-AC68-4D88-B12C-E441D3C24001}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A06489A4-F2B0-44C7-92BA-88F25AD764B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A06489A4-F2B0-44C7-92BA-88F25AD764B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A06489A4-F2B0-44C7-92BA-88F25AD764B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A06489A4-F2B0-44C7-92BA-88F25AD764B0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A2FD5C4C-6D6F-48E1-B0B4-A5F2FC206C02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2FD5C4C-6D6F-48E1-B0B4-A5F2FC206C02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2FD5C4C-6D6F-48E1-B0B4-A5F2FC206C02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2FD5C4C-6D6F-48E1-B0B4-A5F2FC206C02}.Release|Any CPU.Build.0 = Release|Any CPU
+		{32FE1905-C5A8-4500-A50B-8D59A5F63FC9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32FE1905-C5A8-4500-A50B-8D59A5F63FC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32FE1905-C5A8-4500-A50B-8D59A5F63FC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32FE1905-C5A8-4500-A50B-8D59A5F63FC9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
